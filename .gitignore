@@ -1,3 +1,4 @@
 .DS_Store
 01_housing/env
-.ipynb_checkbpoints
+.ipynb_checkpoints/
+venv/
